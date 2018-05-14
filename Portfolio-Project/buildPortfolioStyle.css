@@ -1,0 +1,22 @@
+body {
+  font-family: Raleway, sans-serif;
+}
+
+/*
+Header
+*/
+
+.devName {
+  color: #2d3c49;
+  list-style: none;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.headerBox {
+  border-bottom: 5px solid #7d97ad;
+}
+
+/*
+footer
+*/
