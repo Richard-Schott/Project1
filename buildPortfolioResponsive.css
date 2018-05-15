@@ -1,5 +1,5 @@
 @media screen and (max-width: 500px) {
-  #logoPic {
+  #headerLogo {
     width: 20%;
     height: auto;
   }
@@ -9,10 +9,6 @@
     height: auto;
   }
 
-  .headerBox {
-    width: 50%;
-  }
-  
   .logoBox {
     float: left;
   }

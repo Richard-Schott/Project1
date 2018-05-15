@@ -6,13 +6,25 @@ body {
 Header
 */
 
-.devName {
+/*
+Header text styling
+*/
+
+.headerName {
   color: #2d3c49;
-  list-style: none;
   text-align: right;
   text-transform: uppercase;
 }
 
+.headerRole {
+  color: #2d3c49;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+/*
+Header container styling
+*/
 .headerBox {
   border-bottom: 5px solid #7d97ad;
 }

@@ -2,6 +2,8 @@ The following are stylistic notes and requirements for the portfolio project.
 These were created at the onset, after creating the skeleton HTML, to document the process.
 Additionally, these notes are reminders of work in progress, documenting bugs, and completing the portfolio project.
 
+Issue: USE FORUMLAIC ID AND CLASS NAMES. THINK SECTION + TYPE OR CHARACTERISTIC.
+
 NAME	text-align: right; within <header>?
 		font #2d3c49
 		sans-serif font
@@ -30,4 +32,11 @@ Footer should have more information, e.g., name, copyright/year, a list of links
 __
 
 Use comments to organize CSS.
+
+__
+Three rows, one for the header, the image, and other items. Is the footer a fourth?
+
+__
+Header is block level element, taking 100% width of parent container. It contains child elements, logo and text.
+	Div contains image and text elements.
 
