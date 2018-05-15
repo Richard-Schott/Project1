@@ -1,20 +1,30 @@
-@media screen and (max-width: 500px) {
-  #headerLogo {
-    width: 20%;
+@media screen and (max-width: 550px) {
+  .headerLogo {
+    width: 100%;
     height: auto;
   }
 
-  #officePic {
-    width: 20%;
+  .officePic {
+    width: 100%;
     height: auto;
+  }
+
+/*
+Header
+*/
+
+  #headerBox {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
   }
 
   .logoBox {
-    float: left;
+    width: 25%;
   }
 
   .nameBox {
-    width: 50%;
+    width: 75%;
   }
 }
 

@@ -25,7 +25,7 @@ Header text styling
 /*
 Header container styling
 */
-.headerBox {
+#headerBox {
   border-bottom: 5px solid #7d97ad;
 }
 
