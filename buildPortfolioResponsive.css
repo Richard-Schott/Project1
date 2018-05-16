@@ -1,10 +1,10 @@
 @media screen and (max-width: 550px) {
-  .headerLogo {
+  .header-logo {
     width: 100%;
     height: auto;
   }
 
-  .officePic {
+  .office-pic {
     width: 100%;
     height: auto;
   }
@@ -13,19 +13,44 @@
 Header
 */
 
-  #headerBox {
+  #header-box {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
   }
 
-  .logoBox {
+  .logo-box {
     width: 25%;
   }
 
-  .nameBox {
+  .name-box {
     width: 75%;
   }
+}
+
+/*
+Featured Work section
+*/
+
+.project-box {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.animal-pic {
+  width: 33.333%;
+  height: auto;
+}
+
+.houston-pic{
+  width: 33.333%;
+  height: auto;
+}
+
+.third-image {
+  width: 33.333%
+  height: auto;
 }
 
 /*
