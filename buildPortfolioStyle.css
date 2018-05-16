@@ -10,13 +10,13 @@ Header
 Header text styling
 */
 
-.headerName {
+.header-name {
   color: #2d3c49;
   text-align: right;
   text-transform: uppercase;
 }
 
-.headerRole {
+.header-role {
   color: #2d3c49;
   text-align: right;
   text-transform: uppercase;
@@ -25,7 +25,7 @@ Header text styling
 /*
 Header container styling
 */
-#headerBox {
+#header-box {
   border-bottom: 5px solid #7d97ad;
 }
 
