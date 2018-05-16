@@ -29,6 +29,20 @@ Header
 }
 
 /*
+Project highlights
+*/
+
+.animal-pic {
+  width: 100%;
+  height: auto;
+}
+
+.houston-pic{
+  width: 100%;
+  height: auto;
+}
+
+/*
 @media screen and (min-width: 501px) {
 
 }
