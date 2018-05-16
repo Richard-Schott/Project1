@@ -1,19 +1,7 @@
 body {
   font-family: Raleway, sans-serif;
-  background: linear-gradient(to bottom right, Gainsboro, LightGray);
 }
 
-h3 {
-  color: #2d3c49;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-p {
-  color: #2d3c49;
-  text-align: center;
-  text-transform: uppercase;
-}
 /*
 Header
 */
@@ -22,13 +10,13 @@ Header
 Header text styling
 */
 
-.header-name {
+.headerName {
   color: #2d3c49;
   text-align: right;
   text-transform: uppercase;
 }
 
-.header-role {
+.headerRole {
   color: #2d3c49;
   text-align: right;
   text-transform: uppercase;
@@ -37,13 +25,9 @@ Header text styling
 /*
 Header container styling
 */
-#header-box {
+#headerBox {
   border-bottom: 5px solid #7d97ad;
 }
-
-/*
-Project Highlights section
-*/
 
 /*
 footer
