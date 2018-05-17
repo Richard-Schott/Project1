@@ -20,12 +20,16 @@ Header text styling
   color: #2d3c49;
   text-align: right;
   text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
 }
 
 .header-role {
   color: #2d3c49;
   text-align: right;
   text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
 }
 
 /*
