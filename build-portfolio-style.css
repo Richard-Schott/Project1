@@ -54,8 +54,22 @@ Project Highlights section
   text-transform: uppercase;
 }
 
-.project-labels {
+.project-label {
   text-decoration: underline;
+  margin-top: auto;
+}
+
+/*
+Project Highlights containers
+*/
+
+.first-project {
+}
+
+.second-project {
+}
+
+.third-project {
 }
 
 /*
