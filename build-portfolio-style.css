@@ -51,6 +51,7 @@ Project Highlights section
 .project-header {
   color: #2d3c49;
   text-align: center;
+  text-decoration: underline;
   text-transform: uppercase;
 }
 
