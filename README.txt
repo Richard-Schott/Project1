@@ -2,6 +2,10 @@ The following are stylistic notes and requirements for the portfolio project.
 These were created at the onset, after creating the skeleton HTML, to document the process.
 Additionally, these notes are reminders of work in progress, documenting bugs, and completing the portfolio project.
 
+ISSUE: Change the header's level to eliminate wraparound at 320px. <h3> doesn't work too well. <h2> seems okay.
+IDEA: Create divs, with borders, around the project snapshot boxes. This will be nice on mobile layouts.
+IDEA: border-radius on images make them seem less boring. It might not work on the trading card.
+
 Issue: USE FORUMLAIC ID AND CLASS NAMES. THINK SECTION + TYPE OR CHARACTERISTIC.
 ISSUE: REMOVE JS TAG AND COMMENT NOTES FROM HEAD.
 ISSUE: RICHARD SCHOTT <h2> wraparound below 450px
