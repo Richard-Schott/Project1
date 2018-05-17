@@ -2,6 +2,16 @@ The following are stylistic notes and requirements for the portfolio project.
 These were created at the onset, after creating the skeleton HTML, to document the process.
 Additionally, these notes are reminders of work in progress, documenting bugs, and completing the portfolio project.
 
+Credits:
+	"hexagon-2307350" by janjf93 (https://pixabay.com/en/users/janjf93-3084263/),
+	shared under CC0 Creative Commons, free for commercial use and no attribution required.
+	https://pixabay.com/en/hexagon-symbol-gui-internet-2307350/
+	
+	"Silver Macbook Beside White Ceramic Mug on Table" by rawpixel.com (https://www.pexels.com/@rawpixel),
+	shared under CC0 Creative Commons, free for commercial use and no attribution required.
+	https://www.pexels.com/photo/silver-macbook-beside-white-ceramic-mug-on-table-905873/
+	
+IDEA: Although stock images don't require attribution, cite them in README.
 ISSUE: EXPAND the <a> tags to the images.
 ISSUE: Change the header's level to eliminate wraparound at 320px. <h3> doesn't work too well. <h2> seems okay.
 IDEA: Create divs, with borders, around the project snapshot boxes. This will be nice on mobile layouts.
