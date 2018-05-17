@@ -54,6 +54,10 @@ Project Highlights section
   text-transform: uppercase;
 }
 
+.project-labels {
+  text-decoration: underline;
+}
+
 /*
 footer
 */
