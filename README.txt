@@ -18,7 +18,8 @@ Credits:
 	LinkedIn icons are available at https://brand.linkedin.com/downloads
 	
 	Github icons are available at https://github.com/logos
-	
+
+ISSUE: Minor font-size breakpoint at 500px; the header is small at that point. Other text might be, too.	
 IDEA: Although stock images don't require attribution, cite them in README.
 ISSUE: EXPAND the <a> tags to the images.
 ISSUE: Change the header's level to eliminate wraparound at 320px. <h3> doesn't work too well. <h2> seems okay.
