@@ -8,6 +8,10 @@ body {
   background: linear-gradient(to bottom right, Gainsboro, LightGray);
 }
 
+img {
+  border-radius: 0.3em;
+}
+
 /*
 Header
 */
