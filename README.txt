@@ -18,7 +18,8 @@ Credits:
 	LinkedIn icons are available at https://brand.linkedin.com/downloads
 	
 	Github icons are available at https://github.com/logos
-	
+
+IDEA: Increase the header text size at 550px	
 IDEA: create borderless <div> containers with a darker grey background.
 ISSUE: Minor font-size breakpoint at 500px; the header is small at that point. Other text might be, too.	
 IDEA: Although stock images don't require attribution, cite them in README.
