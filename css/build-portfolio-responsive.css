@@ -142,25 +142,37 @@ footer
 /*
 Project highlights
 */
-  .animal-pic {
-    width: 80%;
-    height: auto;
-    display: block;
-    margin: auto;
+  .project-box {
+    width: 100%;
+  }
+
+  .first-project {
+    width: 33.33%;
   }
 
   .houston-pic {
-    width: 80%;
+    width: 30%;
     height: auto;
     display: block;
     margin: auto;
   }
 
-  .mockup-article-project {
-    width: 80%;
+  .second-project {
+    width: 33.33%;
+  }
+
+  .animal-pic {
+    width: 30%;
     height: auto;
-    margin: auto;
-    display: block;
+  }
+
+  .third-project {
+    width: 33.33%;
+  }
+
+  .mockup-article-project {
+    width: 30%;
+    height: auto;
   }
 }
 
