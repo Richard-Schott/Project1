@@ -19,6 +19,10 @@ Credits:
 	
 	Github icons are available at https://github.com/logos
 
+IDEA: Eliminate excess code, particularly the header. Maybe its style needs to be on the master.
+IDEA: Consolidate some of the images into different breakpoints.
+IDEA: Fix minor breakpoints for text.
+IDEA: Stack images after 700px?
 IDEA: Increase the header text size at 550px	
 IDEA: create borderless <div> containers with a darker grey background.
 ISSUE: Minor font-size breakpoint at 500px; the header is small at that point. Other text might be, too.	

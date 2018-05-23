@@ -1,4 +1,4 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 599px) {
 /*
 Header
 */
@@ -31,18 +31,22 @@ Project highlights
 */
 
   .animal-pic {
-    width: 50%;
+    width: 90%;
     height: auto;
   }
 
   .houston-pic{
-    width: 100%;
+    width: 90%;
     height: auto;
+    display: block;
+    margin: auto;
   }
 
   .mockup-article-project {
-    width: 100%;
+    width: 90%;
     height: auto;
+    display: block;
+    margin: auto;
   }
 
 /*
@@ -70,10 +74,7 @@ footer
   }
 }
 
-/*
-
-*/
-@media screen and (min-width: 551px) and (max-width: 700px) {
+@media screen and (min-width: 600px) and (max-width: 700px) {
 /*
 Header
 */
@@ -111,6 +112,148 @@ Header text
   .header-role {
     font-size: 16px;
   }
+
+/*
+footer
+*/
+
+  .footer-box {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 1px solid #7d97ad;
+    padding-top: 0.5em;
+  }
+
+  .github-box {
+    width: 50%;
+  }
+
+  .linkedin-box {
+    width: 50%;
+  }
+
+  .github-logo {
+    width: 70%;
+    height: auto;
+  }
+
+/*
+Project highlights
+*/
+  .animal-pic {
+    width: 80%;
+    height: auto;
+  }
+
+  .houston-pic{
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+
+  .mockup-article-project {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    display: block;
+  }
+}
+
+/*
+Width 700+
+*/
+@media screen and (min-width: 700px) {
+/*
+Header text
+*/
+  .header-name {
+    font-size: 26px;
+  }
+
+  .header-role {
+    font-size: 16px;
+  }
+/*
+Header
+*/
+  .header-logo-pic {
+    width: 40%;
+    height: auto;
+  }
+
+  .hero-pic {
+    width: 100%;
+    height: auto;
+  }
+
+  #header-box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .logo-box {
+    width: 25%;
+  }
+
+  .name-box {
+    width: 75%;
+  }
+
+/*
+Project highlights
+*/
+  .project-box {
+    display: flex;
+    flex-wrap: wrap;
+    width 100%;
+  }
+
+  .first-project {
+    width: 10%;
+    height: auto;
+  }
+
+  .second-project {
+    width: 10%;
+    height: auto;
+  }
+
+  .third-project {
+    width: 10%;
+    height: auto;
+  }
+
+/*
+footer
+*/
+
+  .footer-box {
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 1px solid #7d97ad;
+    padding-top: 0.5em;
+  }
+
+  .github-box {
+    width: 50%;
+  }
+
+  .linkedin-box {
+    width: 50%;
+  }
+
+  .github-logo {
+    width: 60%;
+    height: auto;
+  }
+
+  .linkedin-logo {
+    display: block;
+    margin: auto;
+  }
+
 }
 
 /*
