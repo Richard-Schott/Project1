@@ -41,7 +41,10 @@ Received help - suggestions:
 		7. Organise CSS from top to bottom to flow with HTML. This enhances readability.
 		8. The div may not be wrapping around the content properly. Labels/comments aren't enough!
 	URGENT: Contact krisB regards project updates!
-	Me: I noticed that I was attempting to resize the containers above 700px, not the image classes!
+	Me 
+		1. I noticed that I was attempting to resize the containers above 700px, not the image classes!
+		2. Revisit prior lessons on design patterns. Figure out the margin and spacing for elements.
+		3. Test the margin spacing on the header, after max widths for the icon and headers are set.
 	
 FLEXWRAP is causing that odd stacking when I add it to the project container!
 Adjusting image width resizes them, but text alignment needs to be fixed.
