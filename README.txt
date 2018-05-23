@@ -22,7 +22,7 @@ Credits:
 Received help - suggestions:
 	JenW
 		1. Class element for images for either a max-width or transformations to hide and recenter parts of them.
-		2.
+		2. Move files to CSS folder. Done!
 	Christopher
 		1. Close project-highlights section.
 	Henry [FEND]
