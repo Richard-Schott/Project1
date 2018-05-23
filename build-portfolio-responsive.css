@@ -33,9 +33,11 @@ Project highlights
   .animal-pic {
     width: 90%;
     height: auto;
+    display: block;
+    margin: auto;
   }
 
-  .houston-pic{
+  .houston-pic {
     width: 90%;
     height: auto;
     display: block;
@@ -143,9 +145,11 @@ Project highlights
   .animal-pic {
     width: 80%;
     height: auto;
+    display: block;
+    margin: auto;
   }
 
-  .houston-pic{
+  .houston-pic {
     width: 80%;
     height: auto;
     display: block;
@@ -209,21 +213,34 @@ Project highlights
     flex-wrap: wrap;
     width: 100%;
   }
+  .animal-pic {
 
+  }
+
+  .houston-pic {
+
+  }
+
+  .mockup-article-project {
+
+  }
+/*
+These are containers, not images! Keep for future use!
   .first-project {
-    width: 10%;
+    width: 200px;
     height: auto;
   }
 
   .second-project {
-    width: 10%;
+    width: 200px;
     height: auto;
   }
 
   .third-project {
-    width: 10%;
+    width: 200px;
     height: auto;
   }
+*/
 
 /*
 footer
