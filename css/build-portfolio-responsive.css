@@ -116,6 +116,27 @@ Header text
   }
 
 /*
+Project highlights
+*/
+  .project-box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .houston-pic {
+    width: 33.33%;
+  }
+
+  .animal-pic {
+    width: 33.33%;
+  }
+
+  .mockup-article-project {
+    width: 33.33%;
+  }
+
+/*
 footer
 */
 
@@ -137,25 +158,6 @@ footer
   .github-logo {
     width: 70%;
     height: auto;
-  }
-
-/*
-Project highlights
-*/
-  .project-box {
-    width: 100%;
-  }
-
-  .first-project {
-    width: 33.33%;
-  }
-
-  .second-project {
-    width: 33.33%;
-  }
-
-  .third-project {
-    width: 33.33%;
   }
 }
 
@@ -208,34 +210,6 @@ Project highlights
     flex-wrap: wrap;
     width: 100%;
   }
-  .animal-pic {
-
-  }
-
-  .houston-pic {
-
-  }
-
-  .mockup-article-project {
-
-  }
-/*
-These are containers, not images! Keep for future use!
-  .first-project {
-    width: 200px;
-    height: auto;
-  }
-
-  .second-project {
-    width: 200px;
-    height: auto;
-  }
-
-  .third-project {
-    width: 200px;
-    height: auto;
-  }
-*/
 
 /*
 footer

@@ -31,6 +31,9 @@ Received help - suggestions:
 		3. A width is missing its colon.
 		4. Project thumbnails overlap because they exceed 10% of the viewport.
 	Me: I noticed that I was attempting to resize the containers above 700px, not the image classes!
+	
+FLEXWRAP is causing that odd stacking when I add it to the project container!
+Adjusting image width resizes them, but text alignment needs to be fixed.
 
 IDEA: Eliminate excess code, particularly the header. Maybe its style needs to be on the master.
 IDEA: Consolidate some of the images into different breakpoints.
