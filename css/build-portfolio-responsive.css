@@ -150,29 +150,12 @@ Project highlights
     width: 33.33%;
   }
 
-  .houston-pic {
-    width: 30%;
-    height: auto;
-    display: block;
-    margin: auto;
-  }
-
   .second-project {
     width: 33.33%;
   }
 
-  .animal-pic {
-    width: 30%;
-    height: auto;
-  }
-
   .third-project {
     width: 33.33%;
-  }
-
-  .mockup-article-project {
-    width: 30%;
-    height: auto;
   }
 }
 
