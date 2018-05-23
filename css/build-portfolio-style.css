@@ -12,19 +12,11 @@ img {
   border-radius: 0.3em;
 }
 
-/* Header
+/*
+Header
 */
-#header-box {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  border-bottom: 5px solid #7d97ad;
-}
 
-.logo-box {
-  width: 25%;
-}
-
+<<<<<<< HEAD
 .header-logo-pic {
   width: 40%;
   height: auto;
@@ -35,6 +27,10 @@ img {
 }
 
 /* Header text styling
+=======
+/*
+Header text styling
+>>>>>>> parent of 85cfb85... Removed + moved @media
 */
 
 .header-name {
@@ -53,14 +49,15 @@ img {
   padding: 0px;
 }
 
-/* Hero pic
+/*
+Header container styling
 */
-.hero-pic {
-  width: 100%;
-  height: auto;
+#header-box {
+  border-bottom: 5px solid #7d97ad;
 }
 
-/* Project Highlights section
+/*
+Project Highlights section
 */
 
 .project-header {
@@ -75,47 +72,19 @@ img {
   margin-top: auto;
 }
 
-/* Project Highlights containers
+/*
+Project Highlights containers
+
+.first-project {
+}
+
+.second-project {
+}
+
+.third-project {
+}
 */
-.houston-pic {
-  width: 90%;
-  height: auto;
-  display: block;
-  margin: auto;
-}
 
-.animal-pic {
-  width: 90%;
-  height: auto;
-  display: block;
-  margin: auto;
-}
-
-.mockup-article-project {
-  width: 90%;
-  height: auto;
-  display: block;
-  margin: auto;
-}
-
-/* Footer
+/*
+footer
 */
-.footer-box {
-  display: flex;
-  flex-wrap: wrap;
-  border-top: 1px solid #7d97ad;
-  padding-top: 0.5em;
-}
-
-.linkedin-box {
-  width: 50%;
-}
-
-.github-box {
-  width: 50%;
-}
-
-.github-logo {
-  width: 70%;
-  height: auto;
-}
