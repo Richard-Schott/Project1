@@ -40,6 +40,7 @@ Received help - suggestions:
 		6. Recommended container div has width: 100%, display: flex, and flex-wrap: wrap.
 		7. Organise CSS from top to bottom to flow with HTML. This enhances readability.
 		8. The div may not be wrapping around the content properly. Labels/comments aren't enough!
+	URGENT: Contact krisB regards project updates!
 	Me: I noticed that I was attempting to resize the containers above 700px, not the image classes!
 	
 FLEXWRAP is causing that odd stacking when I add it to the project container!
