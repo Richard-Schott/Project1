@@ -30,6 +30,16 @@ Received help - suggestions:
 		2. Take note of Layout Overview and the Grids page below it.
 		3. A width is missing its colon.
 		4. Project thumbnails overlap because they exceed 10% of the viewport.
+	krisB on FEND Slack
+		1. Add max-width to constrain divs and images.
+		2. max-widths on elements, keep widths to 100%, so they don't expand at large viewports.
+		2. Float: left and flex-wrap: wrap help.
+		3. justify-content will center my content.
+		4. Get rid of max-width breakpoints.
+		5. elements float left as the viewport expands. This uses less code.
+		6. Recommended container div has width: 100%, display: flex, and flex-wrap: wrap.
+		7. Organise CSS from top to bottom to flow with HTML. This enhances readability.
+		8. The div may not be wrapping around the content properly. Labels/comments aren't enough!
 	Me: I noticed that I was attempting to resize the containers above 700px, not the image classes!
 	
 FLEXWRAP is causing that odd stacking when I add it to the project container!
