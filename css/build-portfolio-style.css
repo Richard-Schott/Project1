@@ -12,12 +12,27 @@ img {
   border-radius: 0.3em;
 }
 
-/*
-Header
+/* Header
 */
+#header-box {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 5px solid #7d97ad;
+}
 
-/*
-Header text styling
+.logo-box {
+  width: 25%;
+}
+
+.header-logo-pic {
+  width: 40%;
+  height: auto;
+}
+  width: 75%;
+}
+
+/* Header text styling
 */
 
 .header-name {
@@ -36,15 +51,14 @@ Header text styling
   padding: 0px;
 }
 
-/*
-Header container styling
+/* Hero pic
 */
-#header-box {
-  border-bottom: 5px solid #7d97ad;
+.hero-pic {
+  width: 100%;
+  height: auto;
 }
 
-/*
-Project Highlights section
+/* Project Highlights section
 */
 
 .project-header {
@@ -59,19 +73,47 @@ Project Highlights section
   margin-top: auto;
 }
 
-/*
-Project Highlights containers
-
-.first-project {
-}
-
-.second-project {
-}
-
-.third-project {
-}
+/* Project Highlights containers
 */
+.houston-pic {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
 
-/*
-footer
+.animal-pic {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.mockup-article-project {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+/* Footer
 */
+.footer-box {
+  display: flex;
+  flex-wrap: wrap;
+  border-top: 1px solid #7d97ad;
+  padding-top: 0.5em;
+}
+
+.linkedin-box {
+  width: 50%;
+}
+
+.github-box {
+  width: 50%;
+}
+
+.github-logo {
+  width: 70%;
+  height: auto;
+}
