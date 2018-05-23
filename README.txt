@@ -18,6 +18,18 @@ Credits:
 	LinkedIn icons are available at https://brand.linkedin.com/downloads
 	
 	Github icons are available at https://github.com/logos
+	
+Received help - suggestions:
+	JenW
+		1. Class element for images for either a max-width or transformations to hide and recenter parts of them.
+		2.
+	Christopher
+		1. Close project-highlights section.
+	Henry [FEND]
+		1. Bootstrap
+		2. Take note of Layout Overview and the Grids page below it.
+		3. A width is missing its colon.
+		4. Project thumbnails overlap because they exceed 10% of the viewport.
 
 IDEA: Eliminate excess code, particularly the header. Maybe its style needs to be on the master.
 IDEA: Consolidate some of the images into different breakpoints.
