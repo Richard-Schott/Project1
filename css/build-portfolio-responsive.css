@@ -139,8 +139,34 @@ footer
 
 }
 
-/*
-@media screen and (min-width: 960px) {
 
+@media screen and (min-width: 960px) {
+  .header-box {
+    max-width: 701px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-image-box {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-image {
+    width: 960px;
+    height: auto;
+  }
+
+  .project-box {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer-box {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
-*/
