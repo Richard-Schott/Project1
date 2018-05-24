@@ -12,23 +12,6 @@
 /*
 Project highlights
 */
-  .project-box {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-  }
-
-  .houston-pic {
-    width: 33.33%;
-  }
-
-  .animal-pic {
-    width: 33.33%;
-  }
-
-  .mockup-article-project {
-    width: 33.33%;
-  }
 
 /*
 footer
@@ -55,7 +38,7 @@ footer
 }
 
 /*
-Width 700+
+Width 700px+
 */
 @media screen and (min-width: 701px) {
 /*
@@ -97,6 +80,33 @@ Project highlights
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+  }
+
+  .first-project {
+    order: 1;
+    width: 33.33%;
+  }
+
+  .houston-pic {
+    max-width: 250px;
+  }
+
+  .second-project {
+    order: 2;
+    width: 33.33%;
+  }
+
+  .animal-pic {
+    max-width: 250px;
+  }
+
+  .third-project {
+    order: 3;
+    width: 33.33%;
+  }
+
+  .mockup-article-project {
+    max-width: 250px;
   }
 
 /*
