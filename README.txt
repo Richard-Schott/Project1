@@ -49,6 +49,10 @@ Received help - suggestions:
 FLEXWRAP is causing that odd stacking when I add it to the project container!
 Adjusting image width resizes them, but text alignment needs to be fixed.
 
+IDEA: Header container's max-width needs to be set. Left and right margins too.
+IDEA: Margins should be set for the project containers at high resolutions.
+IDEA: Max-width for the hero image.
+
 IDEA: Eliminate excess code, particularly the header. Maybe its style needs to be on the master.
 IDEA: Consolidate some of the images into different breakpoints.
 IDEA: Fix minor breakpoints for text.
