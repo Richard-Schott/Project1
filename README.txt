@@ -41,6 +41,10 @@ Received help - suggestions:
 		7. Organise CSS from top to bottom to flow with HTML. This enhances readability.
 		8. The div may not be wrapping around the content properly. Labels/comments aren't enough!
 	URGENT: Contact krisB regards project updates!
+	Megan
+		1. Breakpoint when I'm at max-width to drop width: 100%. center-align using margin
+		2. Resize and realign the footer, too. (Mel also suggested it.) Image height and alignment are imbalanced.
+		3. center-align or align-items
 	Me 
 		1. I noticed that I was attempting to resize the containers above 700px, not the image classes!
 		2. Revisit prior lessons on design patterns. Figure out the margin and spacing for elements.
