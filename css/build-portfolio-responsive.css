@@ -63,14 +63,21 @@ Header
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .logo-box {
     width: 25%;
+    max-width: 200px;
+    order: 1;
   }
 
   .name-box {
     width: 75%;
+    max-width: 600px;
+    order: 2;
   }
 
 /*
@@ -89,6 +96,7 @@ Project highlights
 
   .houston-pic {
     max-width: 250px;
+    max-height: 250px;
   }
 
   .second-project {
@@ -98,6 +106,7 @@ Project highlights
 
   .animal-pic {
     max-width: 250px;
+    max-height: 250px;
   }
 
   .third-project {
@@ -107,6 +116,7 @@ Project highlights
 
   .mockup-article-project {
     max-width: 250px;
+    max-height: 250px;
   }
 
 /*
@@ -142,12 +152,16 @@ footer
 
 @media screen and (min-width: 960px) {
   .header-box {
-    max-width: 701px;
+    max-width: 960px;
     margin-left: auto;
     margin-right: auto;
   }
 
-  .hero-image-box {
+  .logo-box {
+    max-width: ;
+  }
+
+  #hero-image-box {
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
@@ -167,7 +181,7 @@ footer
   }
 
   .footer-box {
-    max-width: 960px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
   }
