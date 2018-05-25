@@ -30,11 +30,6 @@ footer
   .linkedin-box {
     width: 50%;
   }
-
-  .github-logo {
-    width: 70%;
-    height: auto;
-  }
 }
 
 /*
@@ -136,17 +131,6 @@ footer
   .linkedin-box {
     width: 50%;
   }
-
-  .github-logo {
-    width: 60%;
-    height: auto;
-  }
-
-  .linkedin-logo {
-    display: block;
-    margin: auto;
-  }
-
 }
 
 
