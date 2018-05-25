@@ -14,7 +14,7 @@ img {
 
 /* Header
 */
-#header-box {
+.header-box {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
