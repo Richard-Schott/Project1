@@ -10,10 +10,6 @@
   }
 
 /*
-Project highlights
-*/
-
-/*
 footer
 */
   .footer-box {
@@ -23,25 +19,17 @@ footer
     padding-top: 0.5em;
   }
 
-  .github-box {
-    width: 50%;
-  }
-
-  .linkedin-box {
+  .github-box, .linkedin-box {
     width: 50%;
   }
 }
 
-/*
-Width 700px+
-*/
 @media screen and (min-width: 701px) {
 /*
 Header
 */
   .header-logo-pic {
     width: 40%;
-    height: auto;
   }
 
   .header-box {
@@ -55,31 +43,22 @@ Header
 
   .logo-box {
     width: 25%;
-
     order: 1;
   }
 
   .name-box {
     width: 75%;
-
     order: 2;
   }
 
 /* Hero image
 */
 
-.hero-image-box {
-  max-width: 960px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.hero-image {
-  max-width: 960px;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-}
+  .hero-image-box, .hero-image {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 /*
 Project highlights
@@ -95,7 +74,7 @@ Project highlights
     width: 33.33%;
   }
 
-  .houston-pic {
+  .houston-pic, .animal-pic, .mockup-article-project {
     max-width: 250px;
     max-height: 250px;
   }
@@ -105,18 +84,9 @@ Project highlights
     width: 33.33%;
   }
 
-  .animal-pic {
-    max-width: 250px;
-    max-height: 250px;
-  }
-
   .third-project {
     order: 3;
     width: 33.33%;
-  }
-
-  .mockup-article-project {
-    max-width: 250px;
   }
 
 /*
@@ -129,30 +99,14 @@ footer
     padding-top: 0.5em;
   }
 
-  .github-box {
-    width: 50%;
-  }
-
-  .linkedin-box {
+  .github-box, .linkedin-box {
     width: 50%;
   }
 }
 
 @media screen and (min-width: 960px) {
-  .header-box {
+  .header-box, .project-box, .footer-box {
     max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .project-box {
-    max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .footer-box {
-    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
   }
