@@ -19,6 +19,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   border-bottom: 5px solid #7d97ad;
+  margin-bottom: 0.15em;
 }
 
 .logo-box {
