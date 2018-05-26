@@ -88,6 +88,15 @@ a, p {
   width: 50%;
 }
 
+.linkedin-logo {
+  float: right;
+  content: justify;
+}
+
 .github-box {
   width: 50%;
+}
+
+.copyright-box {
+  width: 100%;
 }
